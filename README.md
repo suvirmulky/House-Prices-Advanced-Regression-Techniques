@@ -13,5 +13,5 @@ Broad classification of the steps involved to achieve the aim:
 4) Making Predictions
 5) Checking the accuracy of the model
 
-
+Note : Detailed description of the steps taken is present as comments in the code
 
